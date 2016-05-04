@@ -1,0 +1,9 @@
+name: RitualCraft
+main: com.mbach231.ritualcraft.RitualCraft
+version: 0.1
+commands:
+  ritualbook:
+    description: Gives player Ritual Magic Compendium
+    usage: /ritualbook
+    permission: ritualcraft.ritualbook
+    permission-message: You don't have permission to use this command!
